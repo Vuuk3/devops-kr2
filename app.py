@@ -1,3 +1,4 @@
+# KR2: Tyupin
 import os
 import socket
 
